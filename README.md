@@ -35,8 +35,6 @@ No. Marco	 No. Marco
 46	-	- 	47	- 	- 	
 48	-	- 	49	- 	- 
 
-INTERFAZ
-![image](https://user-images.githubusercontent.com/71399810/167281511-d5a6ddb1-6c37-4704-bbe1-02476d12c193.png)
-![image](https://user-images.githubusercontent.com/71399810/167281514-cb4ae0b9-6e23-4de5-bad6-bd6fc9520ba0.png)
+![image](https://user-images.githubusercontent.com/71399810/167281511-d5a6ddb1-6c37-4704-bbe1-02476d12c193.png)![image](https://user-images.githubusercontent.com/71399810/167281514-cb4ae0b9-6e23-4de5-bad6-bd6fc9520ba0.png)
 
 
